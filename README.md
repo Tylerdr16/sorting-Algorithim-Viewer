@@ -6,3 +6,5 @@ The code allows you to view a menu and choose from various options to view the v
 You can also read and write to a file in the code to edit the randomized list and sort it.
 The file is named Pokemon.txt because during development I used various Pokemon names to create a randomized list.
 Thank you for viewing my project.
+
+Currently, V1 offers just the read and write function, the sorting algorithms will be added shortly.
